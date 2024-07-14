@@ -28,3 +28,6 @@ youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_rounded_thumbnails, true)
 youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_rounded_player_large, true)
 youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_max_player_width, 1280)
 youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
+
+youtube.com###panels
+youtube.com###comment-teaser
