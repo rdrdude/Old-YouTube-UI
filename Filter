@@ -1,3 +1,10 @@
+! Title: Restore the old YouTube UI
+! Description: A filter list to restore the old YouTube UI before the 24' changes.
+! Expires: 1 day
+! Maintainer: rdrdude
+! Version: 1.0
+! Syntax: uBlock Origin
+
 ||www.gstatic.com/youtube/img/promos/
 
 youtube.com###related #thumbnail.ytd-rich-grid-media:style(margin-right: 8px!important;height: 94px!important;width: 168px!important;min-width: 168px!important;)
